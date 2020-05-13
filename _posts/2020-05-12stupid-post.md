@@ -1,6 +1,8 @@
 ---
 theme: minima
 title: Rudy 
+categories: [blog, travel]
+tags: [hot, summer]
 ---
 author: GitHub User man
 email: rudym@propertyinwisconsin.com
