@@ -1,5 +1,7 @@
+---
 theme: minima
 title: Rudy 
+---
 author: GitHub User man
 email: rudym@propertyinwisconsin.com
 description: > # this means to ignore newlines until "baseurl:"
